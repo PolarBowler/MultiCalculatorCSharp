@@ -1,0 +1,15 @@
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\bin\Release\net6.0\MultiCalculatorCSharp.exe
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\bin\Release\net6.0\MultiCalculatorCSharp.deps.json
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\bin\Release\net6.0\MultiCalculatorCSharp.runtimeconfig.json
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\bin\Release\net6.0\MultiCalculatorCSharp.dll
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\bin\Release\net6.0\MultiCalculatorCSharp.pdb
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\MultiCalculatorCSharp.csproj.AssemblyReference.cache
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\MultiCalculatorCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\MultiCalculatorCSharp.AssemblyInfoInputs.cache
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\MultiCalculatorCSharp.AssemblyInfo.cs
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\MultiCalculatorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\MultiCalculatorCSharp.dll
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\refint\MultiCalculatorCSharp.dll
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\MultiCalculatorCSharp.pdb
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\MultiCalculatorCSharp.genruntimeconfig.cache
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\obj\Release\net6.0\ref\MultiCalculatorCSharp.dll

@@ -1,0 +1,2 @@
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\bin\Release\net6.0\win-x64\publish\MultiCalculatorCSharp.pdb
+C:\Users\fwind\source\repos\MultiCalculatorCSharp\MultiCalculatorCSharp\bin\Release\net6.0\win-x64\publish\MultiCalculatorCSharp.exe
