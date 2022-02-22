@@ -12,4 +12,4 @@
 *.vsix
 
 # Build and Debug Files
-!MultiCalculatorCSharp/bin
+!MultiCalculatorCSharp/bin/*
