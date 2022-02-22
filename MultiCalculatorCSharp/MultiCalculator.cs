@@ -19,7 +19,7 @@ class MultiCalculator
 
         do
         {
-            modeSelect = input.getInt("Enter the number of the calculation mdoe you wish to use: ");
+            modeSelect = input.getInt("Enter the number of the calculation mode you wish to use: ");
 
             switch (modeSelect)
             {
