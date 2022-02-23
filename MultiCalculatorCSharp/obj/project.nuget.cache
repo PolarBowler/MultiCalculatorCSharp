@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5if9Y+uU+EgMVmgb4sMohSN+GuSJLLajsLCmzXewySKgV9U4sOlzz6iLrZFG/JkhjAF+aG1CAQzIafseZLGerA==",
+  "dgSpecHash": "9FmMg6PTw3dgdXW/ProGPugTEZv5Z04ni9oMFSzU6UqnSqd9pOBKVUJENfSbi3qtmh0yWbZFoXBjUHKfcqpaWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\fwind\\source\\repos\\MultiCalculatorCSharp\\MultiCalculatorCSharp\\MultiCalculatorCSharp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\fwind\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.2\\microsoft.netcore.app.runtime.win-x64.6.0.2.nupkg.sha512",
-    "C:\\Users\\fwind\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.2.nupkg.sha512",
-    "C:\\Users\\fwind\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.2\\microsoft.aspnetcore.app.runtime.win-x64.6.0.2.nupkg.sha512",
-    "C:\\Users\\fwind\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.2\\microsoft.netcore.app.crossgen2.win-x64.6.0.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
