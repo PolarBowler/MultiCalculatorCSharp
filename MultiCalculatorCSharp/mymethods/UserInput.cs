@@ -2,13 +2,13 @@
 
 namespace UserInput;
 
-public class UserInput
+public class input
 {
-    private bool error = false;
-    private String invalidInput = "Invalid input, please try again!";
-    private String tempString = "";
+    private static bool error = false;
+    private static String invalidInput = "Invalid input, please try again!";
+    private static String tempString = "";
 
-    public string getString(string prompt)
+    public static string getString(string prompt)
     {
         string result = "";
 
@@ -26,7 +26,7 @@ public class UserInput
 
         return result;
     }
-    public decimal getDecimal(string prompt)
+    public static decimal getDecimal(string prompt)
     {
         decimal result = 0.0m;
 
@@ -47,7 +47,7 @@ public class UserInput
 
         return result;
     }
-    public int getInt(string prompt)
+    public static int getInt(string prompt)
     {
         int result = 0;
 
@@ -68,7 +68,7 @@ public class UserInput
 
         return result;
     }
-    public void exit()
+    public static void exit()
     {
         Console.Write("\nPress any key to exit!");
         Console.ReadKey(true);

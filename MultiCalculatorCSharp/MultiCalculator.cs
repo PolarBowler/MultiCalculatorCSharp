@@ -6,9 +6,6 @@ class MultiCalculator
 {
     static void Main()
     {
-        UserInput.UserInput input = new UserInput.UserInput();
-        Calculations.Calculations calc = new Calculations.Calculations();
-
         string[] calcModes = { "1 - Addition", "2 - Subtraction", "3 - Multiplication", "4 - Division", "5 - Exponentiation" };
         int modeSelect = 0;
 
